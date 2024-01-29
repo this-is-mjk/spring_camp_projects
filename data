@@ -1,0 +1,2302 @@
+[
+  {
+    "timeSeconds": 1706536619,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706254333,
+      "rating": 140,
+      "authorHandle": "yash_daga",
+      "modificationTimeSeconds": 1706388981,
+      "id": 125112,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1 , Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111415,
+      "creationTimeSeconds": 1706536619,
+      "commentatorHandle": "P.J.N",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eDisclaimer\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706536393,
+    "blogEntry": {
+      "originalLocale": "ru",
+      "creationTimeSeconds": 1706459055,
+      "rating": 37,
+      "authorHandle": "ace5",
+      "modificationTimeSeconds": 1706528490,
+      "id": 125215,
+      "title": "\u003cp\u003eCodeforces Round #922 (Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111414,
+      "creationTimeSeconds": 1706536393,
+      "commentatorHandle": "Ileonov",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eAs a tester, it is very good round! Good luck!\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706535831,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111413,
+      "creationTimeSeconds": 1706535831,
+      "commentatorHandle": "akshatchaudhary",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eOops, I missed it in my explanation:\u003c/p\u003e\u003cp\u003eSo, if $$$g$$$ is $$$gcd$$$ of $$$a_1,a_2,...,a_n$$$, that means $$$a_i = g \\cdot k_i \\forall i$$$ (definition of a divisor). Also, since $$$a_i \\ge 1$$$, this gives us the condition $$$k_i \\ge 1$$$. I hope, it is clear now :)\u003c/p\u003e\u003cp\u003eYou can ask if you have any other doubts.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111411,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706535174,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111411,
+      "creationTimeSeconds": 1706535174,
+      "commentatorHandle": "ayushbhowate1919",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003ewhat is k in your solution , k1+k2...kn , i didn't understand that \u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111084,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706534453,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706501338,
+      "rating": 17,
+      "authorHandle": "Chahel",
+      "modificationTimeSeconds": 1706523341,
+      "id": 125226,
+      "title": "\u003cp\u003eJanuary Educational Contest | Programming Club, IITM\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111410,
+      "creationTimeSeconds": 1706534453,
+      "commentatorHandle": "Patel45",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eYeeeee :)\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111386,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706534286,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1703845661,
+      "rating": 294,
+      "authorHandle": "stefdasca",
+      "modificationTimeSeconds": 1704122771,
+      "id": 123962,
+      "title": "\u003cp\u003eClick here if you want to know your future CF rating [Part 2]\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111409,
+      "creationTimeSeconds": 1706534286,
+      "commentatorHandle": "8183K",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e\u003ca href=\"https://codeforces.com/profile/8183K\"\u003ehttps://codeforces.com/profile/8183K\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706534253,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111408,
+      "creationTimeSeconds": 1706534253,
+      "commentatorHandle": "Scyther_07",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eI am storing the lazy values $$$(M, A)$$$ for each node of the segment tree, which means that we must multiply the value at that node with $$$M$$$ first and then add $$$A * (r - l + 1)$$$ (r — l + 1 is the length of the segment covered by node) to it, i.e., $$$(val * M + A * (r - l + 1)$$$. Now let's say we are pushing the lazy information of a node, say $$$(M_1, A_1)$$$ to its child with lazy information $$$(M_2, A_2)$$$ then we can observe that $$$(val * M_2 + A_2 * (r - l + 1))$$$ becomes $$$(val * M_1 * M_2 + (A_2 * M_1 + A_1) * (r - l + 1))$$$. Hence, we can accordingly modify the lazy_multiply and the lazy_add values. ( \u003cstrong\u003eNOTE:\u003c/strong\u003e The identity for lazy_multiply and lazy_add are 1 and 0 respectively. Since we also need to do the division operation, there is also a lazy_div for each node in actual implementation. ) \u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111383,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706534115,
+    "blogEntry": {
+      "originalLocale": "ru",
+      "creationTimeSeconds": 1706459055,
+      "rating": 37,
+      "authorHandle": "ace5",
+      "modificationTimeSeconds": 1706528490,
+      "id": 125215,
+      "title": "\u003cp\u003eCodeforces Round #922 (Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111407,
+      "creationTimeSeconds": 1706534115,
+      "commentatorHandle": "leoper",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eAs a tester, it’s my first round that I tested, good luck to everyone!\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 2
+    }
+  },
+  {
+    "timeSeconds": 1706532643,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706459972,
+      "rating": 116,
+      "authorHandle": "Hassan_Fathi",
+      "modificationTimeSeconds": 1706459972,
+      "id": 125216,
+      "title": "\u003cp\u003eAnother cheating blog\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111405,
+      "creationTimeSeconds": 1706532643,
+      "commentatorHandle": "Heap_OverFlow",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eYES!! This is actually too \u003ca href=\"https://codeforces.com/blog/entry/112180\"\u003efunny\u003c/a\u003e and happened before xD I even sent a private message to one of Mhmd_bakr friends warning him of Bakr's fate. Because he cheated an FST solution for B, and got TL XD. I don't know why this organization of \u003ca class=\"rated-user user-cyan\" href=\"/profile/Mhmd_Bakr\" title=\"Specialist Mhmd_Bakr\"\u003eMhmd_Bakr\u003c/a\u003e contains lots of cheating.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111403,
+      "rating": 11
+    }
+  },
+  {
+    "timeSeconds": 1706532446,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706459972,
+      "rating": 116,
+      "authorHandle": "Hassan_Fathi",
+      "modificationTimeSeconds": 1706459972,
+      "id": 125216,
+      "title": "\u003cp\u003eAnother cheating blog\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111404,
+      "creationTimeSeconds": 1706532446,
+      "commentatorHandle": "Verma_26",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eno bro he may be working hard, dont judge like this -_-\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111391,
+      "rating": -1
+    }
+  },
+  {
+    "timeSeconds": 1706532165,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706459972,
+      "rating": 116,
+      "authorHandle": "Hassan_Fathi",
+      "modificationTimeSeconds": 1706459972,
+      "id": 125216,
+      "title": "\u003cp\u003eAnother cheating blog\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111403,
+      "creationTimeSeconds": 1706532165,
+      "commentatorHandle": "CtrlAltDefeat22",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eMany didn't even get their time complexity right in B. Hacked xD...\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 5
+    }
+  },
+  {
+    "timeSeconds": 1706532022,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1703845661,
+      "rating": 294,
+      "authorHandle": "stefdasca",
+      "modificationTimeSeconds": 1704122771,
+      "id": 123962,
+      "title": "\u003cp\u003eClick here if you want to know your future CF rating [Part 2]\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111402,
+      "creationTimeSeconds": 1706532022,
+      "commentatorHandle": "dvaidya_rk",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e\u003ca href=\"https://codeforces.com/profile/dvaidya_rk\"\u003ehttps://codeforces.com/profile/dvaidya_rk\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706531842,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706459972,
+      "rating": 116,
+      "authorHandle": "Hassan_Fathi",
+      "modificationTimeSeconds": 1706459972,
+      "id": 125216,
+      "title": "\u003cp\u003eAnother cheating blog\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111400,
+      "creationTimeSeconds": 1706531842,
+      "commentatorHandle": "Hasib.Nabid",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThey will get away as usual \u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 1
+    }
+  },
+  {
+    "timeSeconds": 1706531534,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706528311,
+      "rating": 5,
+      "authorHandle": "roycf123",
+      "modificationTimeSeconds": 1706528311,
+      "id": 125242,
+      "title": "\u003cp\u003eFenwick tree using PBDS\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111399,
+      "creationTimeSeconds": 1706531534,
+      "commentatorHandle": "roycf123",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThank you\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111394,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706531315,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706459972,
+      "rating": 116,
+      "authorHandle": "Hassan_Fathi",
+      "modificationTimeSeconds": 1706459972,
+      "id": 125216,
+      "title": "\u003cp\u003eAnother cheating blog\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111398,
+      "creationTimeSeconds": 1706531315,
+      "commentatorHandle": "Hassan_Fathi",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eDamn he became an expert!\u003c/p\u003e\u003cp\u003eThanks!\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111391,
+      "rating": 1
+    }
+  },
+  {
+    "timeSeconds": 1706530673,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111397,
+      "creationTimeSeconds": 1706530673,
+      "commentatorHandle": "m_nature",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eYou have to consider the number of test cases also\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111371,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706530619,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706528311,
+      "rating": 5,
+      "authorHandle": "roycf123",
+      "modificationTimeSeconds": 1706528311,
+      "id": 125242,
+      "title": "\u003cp\u003eFenwick tree using PBDS\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111396,
+      "creationTimeSeconds": 1706530619,
+      "commentatorHandle": "orz",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eCorrect.\u003c/p\u003e\u003cp\u003eThere are two things which we both call data structures — interface and implementation. Both Fenwick tree and \u003ccode\u003eordered_set\u003c/code\u003e are implementations. \u003ccode\u003eordered_set\u003c/code\u003e is an implementation of a binary search tree, Fenwick tree is an implementation of a data structure for single point update (usually undoable or idempotent) and prefix sum query. Therefore \u003ccode\u003eordered_set\u003c/code\u003e is much more powerful than the Fenwick tree, but the latter is much faster and lighter.\u003c/p\u003e\u003cp\u003eIf you need Fenwick tree then just find an implementation in the Internet, they all are short and easy to write and memorize. If you need a binary search tree then look for a \u003ccode\u003epb_ds\u003c/code\u003e blog on Codeforces or Google regarding \u003ccode\u003eordered_set\u003c/code\u003e.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111394,
+      "rating": 7
+    }
+  },
+  {
+    "timeSeconds": 1706530323,
+    "blogEntry": {
+      "originalLocale": "ru",
+      "creationTimeSeconds": 1706459055,
+      "rating": 37,
+      "authorHandle": "ace5",
+      "modificationTimeSeconds": 1706528490,
+      "id": 125215,
+      "title": "\u003cp\u003eCodeforces Round #922 (Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111395,
+      "creationTimeSeconds": 1706530323,
+      "commentatorHandle": "wuhudsm",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eAs a tester,the problemset is incredible!Hope you enjoy it :)\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 9
+    }
+  },
+  {
+    "timeSeconds": 1706529627,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706528311,
+      "rating": 5,
+      "authorHandle": "roycf123",
+      "modificationTimeSeconds": 1706528311,
+      "id": 125242,
+      "title": "\u003cp\u003eFenwick tree using PBDS\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111394,
+      "creationTimeSeconds": 1706529627,
+      "commentatorHandle": "newminh",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eIn my opinion using ordered sets to implement Fenwick trees defeats the whole purpose of having Fenwick trees from the start (which is having a lightweight PURQ data structure with lower memory usage and constant).\u003c/p\u003e\u003cp\u003eIf your purpose is to have a PURQ data structure without using any templates where you just need to utilize existing C++ PBDS, \u003ca href=\"https://codeforces.com/blog/entry/110677\"\u003ethis\u003c/a\u003e blog might help, although it looks like implementing a Fenwick tree alone would be much shorter.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 17
+    }
+  },
+  {
+    "timeSeconds": 1706529323,
+    "blogEntry": {
+      "originalLocale": "ru",
+      "creationTimeSeconds": 1706459055,
+      "rating": 37,
+      "authorHandle": "ace5",
+      "modificationTimeSeconds": 1706528490,
+      "id": 125215,
+      "title": "\u003cp\u003eCodeforces Round #922 (Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111393,
+      "creationTimeSeconds": 1706529323,
+      "commentatorHandle": "orz",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eAs a tester, it's the first time I tested an actual Codeforces round!\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 24
+    }
+  },
+  {
+    "timeSeconds": 1706529203,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706459972,
+      "rating": 116,
+      "authorHandle": "Hassan_Fathi",
+      "modificationTimeSeconds": 1706459972,
+      "id": 125216,
+      "title": "\u003cp\u003eAnother cheating blog\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111391,
+      "creationTimeSeconds": 1706529203,
+      "commentatorHandle": "Anything____",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eOne more cheater whose solution is exactly the same as above. \u003ca href=\"https://codeforces.com/contest/1925/submission/243634602\"\u003ehttps://codeforces.com/contest/1925/submission/243634602\u003c/a\u003e I would request the contest authors to ban or skip their submissions.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 6
+    }
+  },
+  {
+    "timeSeconds": 1706529160,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705039952,
+      "rating": 220,
+      "authorHandle": "orz",
+      "modificationTimeSeconds": 1706514263,
+      "id": 124615,
+      "title": "\u003cp\u003eI started solving Project Euler\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111390,
+      "creationTimeSeconds": 1706529160,
+      "commentatorHandle": "tautology",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003ebig brainers's blog\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706528959,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705039952,
+      "rating": 220,
+      "authorHandle": "orz",
+      "modificationTimeSeconds": 1706514263,
+      "id": 124615,
+      "title": "\u003cp\u003eI started solving Project Euler\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111388,
+      "creationTimeSeconds": 1706528959,
+      "commentatorHandle": "Golovanov399",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eI think 167 or 581\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111385,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706528490,
+    "blogEntry": {
+      "originalLocale": "ru",
+      "creationTimeSeconds": 1706459055,
+      "rating": 37,
+      "authorHandle": "ace5",
+      "modificationTimeSeconds": 1706528490,
+      "id": 125215,
+      "title": "\u003cp\u003eCodeforces Round #922 (Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 0,
+      "creationTimeSeconds": 0,
+      "commentatorHandle": "",
+      "locale": "",
+      "text": "",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706528311,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706528311,
+      "rating": 5,
+      "authorHandle": "roycf123",
+      "modificationTimeSeconds": 1706528311,
+      "id": 125242,
+      "title": "\u003cp\u003eFenwick tree using PBDS\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 0,
+      "creationTimeSeconds": 0,
+      "commentatorHandle": "",
+      "locale": "",
+      "text": "",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706528279,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706501338,
+      "rating": 17,
+      "authorHandle": "Chahel",
+      "modificationTimeSeconds": 1706523341,
+      "id": 125226,
+      "title": "\u003cp\u003eJanuary Educational Contest | Programming Club, IITM\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111386,
+      "creationTimeSeconds": 1706528279,
+      "commentatorHandle": "g-s01",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e\u003ca class=\"rated-user user-blue\" href=\"/profile/Patel45\" title=\"Expert Patel45\"\u003ePatel45\u003c/a\u003e orz!\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 11
+    }
+  },
+  {
+    "timeSeconds": 1706527873,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705039952,
+      "rating": 220,
+      "authorHandle": "orz",
+      "modificationTimeSeconds": 1706514263,
+      "id": 124615,
+      "title": "\u003cp\u003eI started solving Project Euler\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111385,
+      "creationTimeSeconds": 1706527873,
+      "commentatorHandle": "orz",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eFor example? 😳\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111384,
+      "rating": 2
+    }
+  },
+  {
+    "timeSeconds": 1706527670,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705039952,
+      "rating": 220,
+      "authorHandle": "orz",
+      "modificationTimeSeconds": 1706514263,
+      "id": 124615,
+      "title": "\u003cp\u003eI started solving Project Euler\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111384,
+      "creationTimeSeconds": 1706527670,
+      "commentatorHandle": "Golovanov399",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eSome problems took me about 3 years of occasional thinking\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111217,
+      "rating": 1
+    }
+  },
+  {
+    "timeSeconds": 1706527615,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111383,
+      "creationTimeSeconds": 1706527615,
+      "commentatorHandle": "Pirate_King",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003ehow are differentiating whether addition was performed first or multiplication ?\u003cbr /\u003e order matters here right?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111264,
+      "rating": 2
+    }
+  },
+  {
+    "timeSeconds": 1706526973,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706449175,
+      "rating": 31,
+      "authorHandle": "AyuAnchor",
+      "modificationTimeSeconds": 1706456273,
+      "id": 125207,
+      "title": "\u003cp\u003eNITS Hacks 6.0 Inter College Coding Competition (Prizes worth 50k INR)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111381,
+      "creationTimeSeconds": 1706526973,
+      "commentatorHandle": "rishijha00007",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eWhat's the deadline to fill the g-form? \u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 3
+    }
+  },
+  {
+    "timeSeconds": 1706526860,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111380,
+      "creationTimeSeconds": 1706526860,
+      "commentatorHandle": "kevinsogo",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eNow, for a proof of the number of queries, we have two quantities at every step:\u003c/p\u003e \u003cul\u003e   \u003cli\u003eThe number of indices $$$i$$$ such that $$$a[i] = b[i]$$$. Let's call this $$$S$$$.\u003c/li\u003e   \u003cli\u003eThe number of indices $$$i$$$ such that $$$a[i] \\not= b[i]$$$. Let's call this $$$B$$$.\u003c/li\u003e \u003c/ul\u003e\u003cp\u003eHere, we only consider \u0026quot;alive\u0026quot; indices, i.e., those that may still contain the target value. Initially, $$$S$$$ and $$$B$$$ are $$$\\approx n/2$$$.\u003c/p\u003e\u003cp\u003eThen, assuming that we are always able to perform a query on a subarray such that:\u003c/p\u003e \u003cul\u003e   \u003cli\u003eit kills roughly half the $$$S$$$ indices;\u003c/li\u003e   \u003cli\u003eit splits the indices of $$$B$$$ roughly equally into the two kinds;\u003c/li\u003e \u003c/ul\u003e\u003cp\u003ethen we have the recurrences $$$S_{\\text{new}} \\approx B/2$$$ and $$$B_{\\text{new}} \\approx (S + B)/2$$$. (This is what the \u003ccode\u003efind\u003c/code\u003e function accomplishes; it looks for a subarray that will do this.) \u003c/p\u003e\u003cp\u003eThis then means that the sum $$$S + B$$$ decays with a factor of roughly $$$\\phi/2 = 0.8090...$$$ at each step.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111262,
+      "rating": 4
+    }
+  },
+  {
+    "timeSeconds": 1706526467,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706449175,
+      "rating": 31,
+      "authorHandle": "AyuAnchor",
+      "modificationTimeSeconds": 1706456273,
+      "id": 125207,
+      "title": "\u003cp\u003eNITS Hacks 6.0 Inter College Coding Competition (Prizes worth 50k INR)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111378,
+      "creationTimeSeconds": 1706526467,
+      "commentatorHandle": "sohailkazi",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eDo you have older NITS Hacks problemsets?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 4
+    }
+  },
+  {
+    "timeSeconds": 1706526134,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111377,
+      "creationTimeSeconds": 1706526134,
+      "commentatorHandle": "variety-jones",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eTake a look at \u003ca href=\"https://cfstress.com/status/17306\"\u003eTicket 17306\u003c/a\u003e from \u003cstrong\u003eCF Stress\u003c/strong\u003e for a counter example.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111352,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706526111,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111376,
+      "creationTimeSeconds": 1706526111,
+      "commentatorHandle": "kevinsogo",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eIt seems you have pinpointed the most crucial part of my code :)\u003c/p\u003e\u003cp\u003eWhen I derived this algorithm, I had no proof that \u003ccode\u003efind\u003c/code\u003e would work, just empirical evidence that I tried it for many random tests and couldn't seem to find a breaking case. (And I guess I proved it for small n just by checking.) But now after you asked, I spent some more effort proving it, and I think I have come up with something that might work.\u003c/p\u003e\u003cp\u003eRoughly, it seems to me that we need to show some sort of variation of the Borsuk-Ulam theorem. \u003c/p\u003e\u003cp\u003eLet's make the array circular, and consider its half-open subarrays $$$[i, j)$$$, with appropriate wrap-arounds, i.e., $$$i$$$ is to be understood mod $$$n$$$, and $$$0 \\le j - i \\le n$$$. Note that the complement of $$$[i, j)$$$ is $$$[j, i + n)$$$.\u003c/p\u003e\u003cp\u003eThen I defined a cost function $$$f$$$ from subarrays to 2D vectors satisfying the following:\u003c/p\u003e \u003cul\u003e   \u003cli\u003e\u003cem\u003enear-continuity property\u003c/em\u003e: $$$|f(i, j) - f(I, J)| \\le 2$$$ whenever $$$|i - I| + |j - J| \\le 1$$$. (The $$$|\\cdot|$$$ in the former uses Manhattan distance.)\u003c/li\u003e   \u003cli\u003e\u003cem\u003eantipodal property\u003c/em\u003e: $$$f(i, j) = -f(j, i + n)$$$.\u003c/li\u003e   \u003cli\u003e\u003cem\u003eboundary condition\u003c/em\u003e: $$$f(i, i) = f(j, j)$$$ for all $$$i$$$ and $$$j$$$.\u003c/li\u003e \u003c/ul\u003e\u003cp\u003eAnd the goal is to show that $$$f$$$ has a near-zero, i.e., some $$$[i, j)$$$ such that $$$|f(i, j)| \\le 1$$$. (In my code, you can see the definition of $$$f$$$ in the comments: its two coordinates are \u003ccode\u003escost\u003c/code\u003e and \u003ccode\u003ebcost\u003c/code\u003e.)\u003c/p\u003e\u003cp\u003eWe can think about a continuous version of this, where the indices $$$i$$$ and $$$j$$$ are now allowed to be fractional values, and extend $$$f$$$ into a continuous function in a somehow \u0026quot;tame\u0026quot; way. The claim is that this extended $$$f$$$ has a zero. If this is true, then I'd think that the original, discrete version of $$$f$$$ must also have a near-zero nearby (...maybe, haha; alternatively, maybe the proof of the continuous version can be adapted to the discrete one) which is what we want. \u003c/p\u003e\u003cp\u003eThus, we seem to need to know the topology of \u0026quot;subarrays of a circular array\u0026quot;. Well, I think it's a sphere! Map the subarray $$$[i, j)$$$ to the point on the sphere with longitude $$$\\frac{j+i}{n}\\pi$$$ and latitude $$$\\left(\\frac{1}{2} - \\frac{j-i}{n}\\right)\\pi$$$. Then we can check that:\u003c/p\u003e \u003cul\u003e   \u003cli\u003eThis respects the fact that $$$i$$$ only makes sense mod $$$n$$$ (because replacing $$$[i, j)$$$ with $$$[i+n, j+n)$$$ doesn't change things);\u003c/li\u003e   \u003cli\u003e$$$[i, j)$$$ and $$$[j, i+n)$$$ map to antipodes;\u003c/li\u003e   \u003cli\u003eempty subarrays $$$[i, i)$$$ map to the north pole, so the boundary conditions are satisfied. (Their complements $$$[i, i+n)$$$ map to the south pole.)\u003c/li\u003e \u003c/ul\u003e\u003cp\u003eSo Borsuk-Ulam applies, and (the extended) $$$f$$$ has a zero.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111262,
+      "rating": 5
+    }
+  },
+  {
+    "timeSeconds": 1706525728,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706335105,
+      "rating": 39,
+      "authorHandle": "stdfloat",
+      "modificationTimeSeconds": 1706495803,
+      "id": 125143,
+      "title": "\u003cp\u003eWhat do/did you do for training for IOI?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111374,
+      "creationTimeSeconds": 1706525728,
+      "commentatorHandle": "speedermen",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eCreators are self-taughts, and people who are trying to get into IOI are following others so they definitely have no chances to qualify on IOI.. Only if they have really neat mentors\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111373,
+      "rating": -1
+    }
+  },
+  {
+    "timeSeconds": 1706525039,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706335105,
+      "rating": 39,
+      "authorHandle": "stdfloat",
+      "modificationTimeSeconds": 1706495803,
+      "id": 125143,
+      "title": "\u003cp\u003eWhat do/did you do for training for IOI?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111373,
+      "creationTimeSeconds": 1706525039,
+      "commentatorHandle": "SAD_IN_NIGHTMARE",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eWhat?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111333,
+      "rating": 3
+    }
+  },
+  {
+    "timeSeconds": 1706524946,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111372,
+      "creationTimeSeconds": 1706524946,
+      "commentatorHandle": "The5threich",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eIt kind of is, if p/q were an integer less than 1e9+7, It will be equivalent to p/q.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111255,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706524363,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111371,
+      "creationTimeSeconds": 1706524363,
+      "commentatorHandle": "pratyanshkpathak",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eCan someone tell me how to determine the time complexity of div 2 b?? according to the constraints if feels like O(n) solution to work since n\u0026lt;=1e8 but my O(n) solution gives tle?? here is the solution \u003ca href=\"https://codeforces.com/contest/1925/submission/243588276\"\u003e243588276\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706524167,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1569280568,
+      "rating": 193,
+      "authorHandle": "icecuber",
+      "modificationTimeSeconds": 1676407962,
+      "id": 70018,
+      "title": "\u003cp\u003eCSES DP section editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111369,
+      "creationTimeSeconds": 1706524167,
+      "commentatorHandle": "rhymehatch",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eFor Removal Game it looks like there are multiple ideas. Some of them work in Python. My idea TLEs.\u003c/p\u003e\u003cp\u003eIf player 1 is to move, then score is the element. If player 2 is to move, then score is just 0 for player 1. From there, you go inductively, going over all games of length 2, length 3 etc. The update rule is simply:\u003c/p\u003e \u003cpre\u003e\u003ccode\u003edp2[i][j] = min(dp1[i+1][j], dp1[i][j-1])  # player 2\ndp1[i][j] = max(e[i]+dp2[i+1][j], e[j]+dp2[i][j-1])  # player 1\n\u003c/code\u003e\u003c/pre\u003e\u003cp\u003ePlayer 2 will do whatever minimizes the outcome for player 1, because then she obviously gets the rest of the total sum for herself. Player 1 does whatever maximizes his sum.\u003c/p\u003e\u003cp\u003eI guess reducing this to 1 DP matrix (by thinking about total sums), and then reducing that to 1-dim DP array (by thinking about prefix sums), makes this not TLE for Python. I guess it's not as trivial to get there.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706523472,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706503108,
+      "rating": 20,
+      "authorHandle": "askd",
+      "modificationTimeSeconds": 1706506529,
+      "id": 125227,
+      "title": "\u003cp\u003eCompetitive programming coaching\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111368,
+      "creationTimeSeconds": 1706523472,
+      "commentatorHandle": "speedermen",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eYes, that would be nice to find out how to solve problems you have no idea how to solve, but some people like me are trying to blame others not themselves.. that's tough\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111365,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706523341,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706501338,
+      "rating": 17,
+      "authorHandle": "Chahel",
+      "modificationTimeSeconds": 1706523341,
+      "id": 125226,
+      "title": "\u003cp\u003eJanuary Educational Contest | Programming Club, IITM\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 0,
+      "creationTimeSeconds": 0,
+      "commentatorHandle": "",
+      "locale": "",
+      "text": "",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706523087,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1703845661,
+      "rating": 294,
+      "authorHandle": "stefdasca",
+      "modificationTimeSeconds": 1704122771,
+      "id": 123962,
+      "title": "\u003cp\u003eClick here if you want to know your future CF rating [Part 2]\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111366,
+      "creationTimeSeconds": 1706523087,
+      "commentatorHandle": "akshatchaudhary",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eUdaale gareeb ka mazaak \u003cimg alt=\" \" src=\"/predownloaded/79/3c/793c2173a21139f99d449e71bffb79b516669448.jpg\" style=\"max-width: 100.0%;max-height: 100.0%;\" /\u003e\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111241,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706522202,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706503108,
+      "rating": 20,
+      "authorHandle": "askd",
+      "modificationTimeSeconds": 1706506529,
+      "id": 125227,
+      "title": "\u003cp\u003eCompetitive programming coaching\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111365,
+      "creationTimeSeconds": 1706522202,
+      "commentatorHandle": "Mindeveloped",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003ethe purpose to have a coach is to get a better studying plan from someone who is much more experienced than you\u003c/p\u003e \u003cdiv class=\"spoiler\"\u003e\u003cb class=\"spoiler-title\"\u003eSpoiler\u003c/b\u003e\u003cdiv class=\"spoiler-content\" style=\"display: none;\"\u003e\u003cp\u003eand helps you to refrain from sending \u0026quot;how to improve\u0026quot; blogs\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+      "parentCommentId": 1111327,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706521774,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706262609,
+      "rating": 56,
+      "authorHandle": "atcoder_official",
+      "modificationTimeSeconds": 1706262609,
+      "id": 125117,
+      "title": "\u003cp\u003eAtCoder Beginner Contest 338 Announcement\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111364,
+      "creationTimeSeconds": 1706521774,
+      "commentatorHandle": "MoYi__666",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003ethanks\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111362,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706521736,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705966271,
+      "rating": 46,
+      "authorHandle": "xiaowuc1",
+      "modificationTimeSeconds": 1706423874,
+      "id": 125004,
+      "title": "\u003cp\u003eUSACO 2023-2024 Second Contest\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111363,
+      "creationTimeSeconds": 1706521736,
+      "commentatorHandle": "kozliklekarsky",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cdiv class=\"spoiler\"\u003e\u003cb class=\"spoiler-title\"\u003eMuch needed context OP felt for some reason the need to leave out\u003c/b\u003e\u003cdiv class=\"spoiler-content\" style=\"display: none;\"\u003e\u003cp\u003eThe comment is basically this rant (given by a well known and important teacher in Romania) translated into english, which was written out frustration after said teacher's personal OJ got DDoS'ed (edit: the third time in the last ~4 months) under similar circumstances\u003c/p\u003e\u003cp\u003e\u003cimg alt=\" \" src=\"/predownloaded/87/2b/872bc3582ebb4299c5bd8be81da0726900f39281.jpg\" style=\"max-width: 100.0%;max-height: 100.0%;\" /\u003e\u003c/p\u003e\u003cp\u003eAlso, why did you feel the need to intervene? Seems unnecesary.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+      "parentCommentId": 1111359,
+      "rating": 11
+    }
+  },
+  {
+    "timeSeconds": 1706521516,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706262609,
+      "rating": 56,
+      "authorHandle": "atcoder_official",
+      "modificationTimeSeconds": 1706262609,
+      "id": 125117,
+      "title": "\u003cp\u003eAtCoder Beginner Contest 338 Announcement\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111362,
+      "creationTimeSeconds": 1706521516,
+      "commentatorHandle": "xiaobai7363",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e$$$1\u0026lt;=u,v\u0026lt;=2n$$$\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111360,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706521289,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706262609,
+      "rating": 56,
+      "authorHandle": "atcoder_official",
+      "modificationTimeSeconds": 1706262609,
+      "id": 125117,
+      "title": "\u003cp\u003eAtCoder Beginner Contest 338 Announcement\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111361,
+      "creationTimeSeconds": 1706521289,
+      "commentatorHandle": "WhisperingWillow",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e$$$1\\le u,v\\le 2\\times n$$$\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111360,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706520883,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706262609,
+      "rating": 56,
+      "authorHandle": "atcoder_official",
+      "modificationTimeSeconds": 1706262609,
+      "id": 125117,
+      "title": "\u003cp\u003eAtCoder Beginner Contest 338 Announcement\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111360,
+      "creationTimeSeconds": 1706520883,
+      "commentatorHandle": "MoYi__666",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eHi,everybody,I found a problem in E Here is the Sample Input 3 114 514 512 113 115 513\u003c/p\u003e\u003cp\u003eBut Atcoder's Output is No and somebody's AC code'output is No But somebody's AC code'output is Yes and I try drawing a picture,I found that there is an intersection between the chords, Can you help me?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706520638,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705966271,
+      "rating": 46,
+      "authorHandle": "xiaowuc1",
+      "modificationTimeSeconds": 1706423874,
+      "id": 125004,
+      "title": "\u003cp\u003eUSACO 2023-2024 Second Contest\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111359,
+      "creationTimeSeconds": 1706520638,
+      "commentatorHandle": "WeaponizedAutist",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThe \u0026quot;😊\u0026quot; emojis are doing a very poor job of hiding the fact that the based ddos'ers triggered you. Stop being a redditor on cf.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111271,
+      "rating": -14
+    }
+  },
+  {
+    "timeSeconds": 1706519992,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706519992,
+      "rating": 2,
+      "authorHandle": "wandjilegentia",
+      "modificationTimeSeconds": 1706519992,
+      "id": 125238,
+      "title": "\u003cp\u003ePlatforms for Prized Competitive Programming\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 0,
+      "creationTimeSeconds": 0,
+      "commentatorHandle": "",
+      "locale": "",
+      "text": "",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706519850,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705966271,
+      "rating": 46,
+      "authorHandle": "xiaowuc1",
+      "modificationTimeSeconds": 1706423874,
+      "id": 125004,
+      "title": "\u003cp\u003eUSACO 2023-2024 Second Contest\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111358,
+      "creationTimeSeconds": 1706519850,
+      "commentatorHandle": "coderdhanraj",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThe site is working now, poor me couldn't make gold this time too :(\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706518303,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1700677142,
+      "rating": 658,
+      "authorHandle": "sum",
+      "modificationTimeSeconds": 1705178800,
+      "id": 122561,
+      "title": "\u003cp\u003eCodeforces Round #919 (Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111357,
+      "creationTimeSeconds": 1706518303,
+      "commentatorHandle": "ajsaga",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003ehm\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706518125,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1647240578,
+      "rating": 8,
+      "authorHandle": "codebuster_10",
+      "modificationTimeSeconds": 1647240578,
+      "id": 100880,
+      "title": "\u003cp\u003eUber Hiring Test Problems (India 2022)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111356,
+      "creationTimeSeconds": 1706518125,
+      "commentatorHandle": "anchaliyadaksh",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eWe can even convert the graph into a weighted one where the cost to go from node a to node b is a bitwise OR b similar for the reverse direction and simply run tweaked Dijkstra to find the maximum distance from every query, but it would get TLE, cuz of O(q*(v+e)*logE). But we can simply take OR of all vertices from 1 to n and address each query in O(1) by checking if it's greater than w or not. There is no use for DSU right, it's greedy.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 895748,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706517683,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706456905,
+      "rating": 0,
+      "authorHandle": "spoily_frog",
+      "modificationTimeSeconds": 1706458238,
+      "id": 125213,
+      "title": "\u003cp\u003eUsing NumPyPy using PyPy2\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111355,
+      "creationTimeSeconds": 1706517683,
+      "commentatorHandle": "spoily_frog",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThanks a lot! It worked :)\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111260,
+      "rating": 1
+    }
+  },
+  {
+    "timeSeconds": 1706516937,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111354,
+      "creationTimeSeconds": 1706516937,
+      "commentatorHandle": "Scyther_07",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eYour method doesn't require lazy propagation. Great.\u003c/p\u003e\u003cp\u003eCan you please tell me if \u003ca href=\"https://codeforces.com/blog/entry/125137?#comment-1111264\"\u003ethis approach\u003c/a\u003e will work? (Although it is a bit messy to implement)\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111312,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706516682,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111353,
+      "creationTimeSeconds": 1706516682,
+      "commentatorHandle": "HaoxuanXIE",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThanks!\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111351,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706514640,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111352,
+      "creationTimeSeconds": 1706514640,
+      "commentatorHandle": "Scyther_07",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThanks. Why is \u003ca href=\"https://codeforces.com/contest/1925/submission/243872647\"\u003ethis one\u003c/a\u003e failing?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111311,
+      "rating": -7
+    }
+  },
+  {
+    "timeSeconds": 1706514349,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111351,
+      "creationTimeSeconds": 1706514349,
+      "commentatorHandle": "zc2707",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e$$$\\Theta\\left(q\\sqrt n\\right)$$$ is too large for this problem because $$$q\\sqrt n=164316767.25154984$$$ and the constant is not small enough. \u003c/p\u003e\u003cp\u003eIt is much better to process a problem with interval assignments and interval queries using a segment tree which has time complexity $$$\\Theta\\left(n+q\\log n\\right)$$$ than a block array which has time complexity $$$\\Theta\\left(n+q\\sqrt n\\right)$$$. \u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111150,
+      "rating": 3
+    }
+  },
+  {
+    "timeSeconds": 1706514263,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705039952,
+      "rating": 220,
+      "authorHandle": "orz",
+      "modificationTimeSeconds": 1706514263,
+      "id": 124615,
+      "title": "\u003cp\u003eI started solving Project Euler\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 0,
+      "creationTimeSeconds": 0,
+      "commentatorHandle": "",
+      "locale": "",
+      "text": "",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706513895,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706461949,
+      "rating": 33,
+      "authorHandle": "Halym2007",
+      "modificationTimeSeconds": 1706462114,
+      "id": 125217,
+      "title": "\u003cp\u003eWhat is the difference between them?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111350,
+      "creationTimeSeconds": 1706513895,
+      "commentatorHandle": "nskybytskyi",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eRemember that complexity is an amortized constant, not a worst-time constant. [\u003ca href=\"https://en.cppreference.com/w/cpp/container/set/erase\"\u003ereference\u003c/a\u003e]\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111258,
+      "rating": 15
+    }
+  },
+  {
+    "timeSeconds": 1706512482,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706254333,
+      "rating": 140,
+      "authorHandle": "yash_daga",
+      "modificationTimeSeconds": 1706388981,
+      "id": 125112,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1 , Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111349,
+      "creationTimeSeconds": 1706512482,
+      "commentatorHandle": "Raks_splunk",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eWill 1 1 1 b be a valid testcase for Div.2 C?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706511877,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706254333,
+      "rating": 140,
+      "authorHandle": "yash_daga",
+      "modificationTimeSeconds": 1706388981,
+      "id": 125112,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1 , Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111346,
+      "creationTimeSeconds": 1706511877,
+      "commentatorHandle": "manish47",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eI don't really get why I was being downvoted.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111203,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706511223,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706449175,
+      "rating": 31,
+      "authorHandle": "AyuAnchor",
+      "modificationTimeSeconds": 1706456273,
+      "id": 125207,
+      "title": "\u003cp\u003eNITS Hacks 6.0 Inter College Coding Competition (Prizes worth 50k INR)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111342,
+      "creationTimeSeconds": 1706511223,
+      "commentatorHandle": "_parthiv_saikia_",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eExcited!!\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 2
+    }
+  },
+  {
+    "timeSeconds": 1706511170,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706335105,
+      "rating": 39,
+      "authorHandle": "stdfloat",
+      "modificationTimeSeconds": 1706495803,
+      "id": 125143,
+      "title": "\u003cp\u003eWhat do/did you do for training for IOI?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111341,
+      "creationTimeSeconds": 1706511170,
+      "commentatorHandle": "Ali0Bashirov",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eIm just kidding im not even old enough to participate\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111204,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706511107,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1661684417,
+      "rating": 149,
+      "authorHandle": "ScarletS",
+      "modificationTimeSeconds": 1687737983,
+      "id": 106407,
+      "title": "\u003cp\u003e[Tutorial] Amogus Trick\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111339,
+      "creationTimeSeconds": 1706511107,
+      "commentatorHandle": "NeroZein",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eOh this explains everything. Thank you !\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111307,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706510649,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706335105,
+      "rating": 39,
+      "authorHandle": "stdfloat",
+      "modificationTimeSeconds": 1706495803,
+      "id": 125143,
+      "title": "\u003cp\u003eWhat do/did you do for training for IOI?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111333,
+      "creationTimeSeconds": 1706510649,
+      "commentatorHandle": "speedermen",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eCounts only own self-taught stuffs..\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": -4
+    }
+  },
+  {
+    "timeSeconds": 1706510102,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111328,
+      "creationTimeSeconds": 1706510102,
+      "commentatorHandle": "charchit_paharia",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eFor the Div2 D, for considering the incremental sum of pairs, why they have assumed that for a excursion only 1 pair can be repeated and they only accounted that pair repeated k x times, and multipled the whole by m? Why can't 2 or more pairs be a part of excursion considering that sum and probabilites would change and the final solution would also, right?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706510010,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706503108,
+      "rating": 20,
+      "authorHandle": "askd",
+      "modificationTimeSeconds": 1706506529,
+      "id": 125227,
+      "title": "\u003cp\u003eCompetitive programming coaching\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111327,
+      "creationTimeSeconds": 1706510010,
+      "commentatorHandle": "speedermen",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eYou should get success by yourself, can a coach really help you if you fear to lose rating/resources/skills/etc, coach can push you but eventually you have to find answers by your own, is not it is a purpose of competition?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": -5
+    }
+  },
+  {
+    "timeSeconds": 1706509155,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111325,
+      "creationTimeSeconds": 1706509155,
+      "commentatorHandle": "onlyerror",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003ethanks bro\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111289,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706509096,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706503108,
+      "rating": 20,
+      "authorHandle": "askd",
+      "modificationTimeSeconds": 1706506529,
+      "id": 125227,
+      "title": "\u003cp\u003eCompetitive programming coaching\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111323,
+      "creationTimeSeconds": 1706509096,
+      "commentatorHandle": "Giratina",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e\u003cem\u003eI have a girlfriend!!!!\u003c/em\u003e\u003cbr /\u003eThis alone outweighs all the other achievements. \u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 56
+    }
+  },
+  {
+    "timeSeconds": 1706508725,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706335105,
+      "rating": 39,
+      "authorHandle": "stdfloat",
+      "modificationTimeSeconds": 1706495803,
+      "id": 125143,
+      "title": "\u003cp\u003eWhat do/did you do for training for IOI?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111322,
+      "creationTimeSeconds": 1706508725,
+      "commentatorHandle": "TimDee",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e2100 can't guarantee you even bronze. You should be able to solve at least half of ~2400+ rated problems you face (assuming op aims for medal)\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111204,
+      "rating": -2
+    }
+  },
+  {
+    "timeSeconds": 1706507429,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706385918,
+      "rating": 335,
+      "authorHandle": "Giga_Cronos",
+      "modificationTimeSeconds": 1706385918,
+      "id": 125183,
+      "title": "\u003cp\u003eCloudflare is screwing up contests\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111321,
+      "creationTimeSeconds": 1706507429,
+      "commentatorHandle": "ilovenandini",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003enow i am able to see my code in mirror.codeforces.com , earlier we couldn't but now they are opening\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111009,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706507158,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706169595,
+      "rating": 28,
+      "authorHandle": "swapnil07",
+      "modificationTimeSeconds": 1706507158,
+      "id": 125076,
+      "title": "\u003cp\u003eCodeRush January 2024 Invite\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111320,
+      "creationTimeSeconds": 1706507158,
+      "commentatorHandle": "swapnil07",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e\u003ci\u003eAuto comment: topic has been updated by \u003ca class=\"rated-user user-violet\" href=\"/profile/swapnil07\" title=\"Candidate Master swapnil07\"\u003eswapnil07\u003c/a\u003e (\u003ca href=\"/topic/125701/en1\"\u003eprevious revision\u003c/a\u003e, \u003ca href=\"/topic/125701/en2\"\u003enew revision\u003c/a\u003e, \u003ca href=\"/topic/125701/diff/en1/en2\"\u003ecompare\u003c/a\u003e).\u003c/i\u003e\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706507158,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706169595,
+      "rating": 28,
+      "authorHandle": "swapnil07",
+      "modificationTimeSeconds": 1706507158,
+      "id": 125076,
+      "title": "\u003cp\u003eCodeRush January 2024 Invite\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 0,
+      "creationTimeSeconds": 0,
+      "commentatorHandle": "",
+      "locale": "",
+      "text": "",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706506529,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706503108,
+      "rating": 20,
+      "authorHandle": "askd",
+      "modificationTimeSeconds": 1706506529,
+      "id": 125227,
+      "title": "\u003cp\u003eCompetitive programming coaching\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 0,
+      "creationTimeSeconds": 0,
+      "commentatorHandle": "",
+      "locale": "",
+      "text": "",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706506290,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706258933,
+      "rating": 25,
+      "authorHandle": "ilovenandini",
+      "modificationTimeSeconds": 1706258933,
+      "id": 125114,
+      "title": "\u003cp\u003eUnable to View Other Contestants Submissions\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111317,
+      "creationTimeSeconds": 1706506290,
+      "commentatorHandle": "AvaraKedavra",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eAsk Nandini,she knows it :)\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706506286,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111316,
+      "creationTimeSeconds": 1706506286,
+      "commentatorHandle": "variety-jones",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cpre\u003e\u003ccode\u003eInput\n2\n3 2 6\nbabbaa\n2 1 3\naaa\n\nExpected\nNO\naab\nYES\n\nProduced\nYES\nYES\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e",
+      "parentCommentId": 1111188,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706504183,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706385918,
+      "rating": 335,
+      "authorHandle": "Giga_Cronos",
+      "modificationTimeSeconds": 1706385918,
+      "id": 125183,
+      "title": "\u003cp\u003eCloudflare is screwing up contests\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111314,
+      "creationTimeSeconds": 1706504183,
+      "commentatorHandle": "arash.",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eTrue! But by \u0026quot;other sites\u0026quot; I didn't mean cp-related specifically, I meant other sites that use CloudFlare. My real problem with CF is that CloudFlare just refreshes after I verify, and never allows me to use codeforces.com during contests.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111275,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706503411,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111312,
+      "creationTimeSeconds": 1706503411,
+      "commentatorHandle": "arash.",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eMy solution:\u003c/p\u003e\u003cp\u003eFor each harbor I keep the sum of distances of every ship between this harbor and the next harbor. I can do it using a std::set maintaining the positions of all available harbors. Now i put the mentioned value for a harbor at position x inside a Fenwick tree ( the xth number in the Fenwick tree, if there is a harbor at position x, contains the value of that harbor). Now let's talk about answering each query, in each query i First take the sum of all values of harbors inside that segment. It's really easy to see that there are some ships in the segment that I'm not counting their distance but I should, and there are some ships outside that I'm counting their distance but I shouldn't. I can calculate these missing/extra values using the std::set we maintained above. It is a bit mathy, so I recommend taking a look at my implementation to understand it better: \u003ca href=\"/contest/1924/submission/243623915\" title=\"Submission 243623915 by arash.\"\u003e243623915\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111305,
+      "rating": 6
+    }
+  },
+  {
+    "timeSeconds": 1706503082,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111311,
+      "creationTimeSeconds": 1706503082,
+      "commentatorHandle": "variety-jones",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eTake a look at \u003ca href=\"https://cfstress.com/status/17298\"\u003eTicket 17298\u003c/a\u003e from \u003cstrong\u003eCF Stress\u003c/strong\u003e for a counter example.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111264,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706501821,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706254333,
+      "rating": 140,
+      "authorHandle": "yash_daga",
+      "modificationTimeSeconds": 1706388981,
+      "id": 125112,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1 , Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111309,
+      "creationTimeSeconds": 1706501821,
+      "commentatorHandle": "JaySharma1048576",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eYes, it was a typo. Thanks for pointing out.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111231,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706500167,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111308,
+      "creationTimeSeconds": 1706500167,
+      "commentatorHandle": "abaa112",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eCan anyone tell me what's wrong with my code on Problem C. I compared it with the editorial and think they are the same, but I got WA. \u003ca href=\"https://codeforces.com/contest/1925/submission/243847499\"\u003ehttps://codeforces.com/contest/1925/submission/243847499\u003c/a\u003e\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706499528,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1661684417,
+      "rating": 149,
+      "authorHandle": "ScarletS",
+      "modificationTimeSeconds": 1687737983,
+      "id": 106407,
+      "title": "\u003cp\u003e[Tutorial] Amogus Trick\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111307,
+      "creationTimeSeconds": 1706499528,
+      "commentatorHandle": "ScarletS",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThanks for pointing that out! Yeah, in this case, the order of the arguments in \u0026quot;unite\u0026quot;/\u0026quot;merge\u0026quot; is actually important, as we're utilising the property that if we do the operations in the way in the code, the nodes in the DSU will be symmetric (for example, if node $$$i$$$ is a parent node, then node $$$i + n$$$ will also be a parent node. Similarly, if node $$$i$$$ is not a parent node, then node $$$i + n$$$ won't be parent node). Performing the operations in this way ensures the symmetric property remains.\u003c/p\u003e\u003cp\u003eYou can also resolve this by making the DSU unite/merge implementation order-deterministic, for example, by adding the lines\u003c/p\u003e \u003cpre\u003e\u003ccode\u003eif (i \u0026gt; j) {\n   swap(i, j);\n}\n\u003c/code\u003e\u003c/pre\u003e\u003cp\u003eat the start of it, so the arrangement of nodes in the DSU remains the same regardless of $$$unite(x, y)$$$ or $$$unite(y, x)$$$ calls.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111299,
+      "rating": 5
+    }
+  },
+  {
+    "timeSeconds": 1706498593,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1700676711,
+      "rating": 306,
+      "authorHandle": "sum",
+      "modificationTimeSeconds": 1705355092,
+      "id": 122560,
+      "title": "\u003cp\u003eEditorial for Codeforces Round #919 (Div. 2)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111306,
+      "creationTimeSeconds": 1706498593,
+      "commentatorHandle": "PROELECTRO444",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThanks For the analysis \u0026lt;3\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1108752,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706498055,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111305,
+      "creationTimeSeconds": 1706498055,
+      "commentatorHandle": "nitor",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eHow to solve Div2E/Div1B? Still waiting for the editorial :\\\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 3
+    }
+  },
+  {
+    "timeSeconds": 1706497057,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706408086,
+      "rating": 17,
+      "authorHandle": "remmymilkyway",
+      "modificationTimeSeconds": 1706415964,
+      "id": 125189,
+      "title": "\u003cp\u003eUSACO Not Responding\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111304,
+      "creationTimeSeconds": 1706497057,
+      "commentatorHandle": "SuperJ6",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eAny not clown usaco contestant will open all problems in separate tabs...\u003c/p\u003e\u003cp\u003e(and on cf, should open full problemset to mitigate)\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111287,
+      "rating": 1
+    }
+  },
+  {
+    "timeSeconds": 1706497053,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706335105,
+      "rating": 39,
+      "authorHandle": "stdfloat",
+      "modificationTimeSeconds": 1706495803,
+      "id": 125143,
+      "title": "\u003cp\u003eWhat do/did you do for training for IOI?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111303,
+      "creationTimeSeconds": 1706497053,
+      "commentatorHandle": "stdfloat",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThanks.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111204,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706496424,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1589052572,
+      "rating": 133,
+      "authorHandle": "vovuh",
+      "modificationTimeSeconds": 1589053951,
+      "id": 77161,
+      "title": "\u003cp\u003eCodeforces Round #640 (Div. 4) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111301,
+      "creationTimeSeconds": 1706496424,
+      "commentatorHandle": "AvaraKedavra",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eShittiest constraints ever for problem E. \u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706495803,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706335105,
+      "rating": 39,
+      "authorHandle": "stdfloat",
+      "modificationTimeSeconds": 1706495803,
+      "id": 125143,
+      "title": "\u003cp\u003eWhat do/did you do for training for IOI?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 0,
+      "creationTimeSeconds": 0,
+      "commentatorHandle": "",
+      "locale": "",
+      "text": "",
+      "parentCommentId": 0,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706494774,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706408086,
+      "rating": 17,
+      "authorHandle": "remmymilkyway",
+      "modificationTimeSeconds": 1706415964,
+      "id": 125189,
+      "title": "\u003cp\u003eUSACO Not Responding\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111300,
+      "creationTimeSeconds": 1706494774,
+      "commentatorHandle": "maxrgby",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eThing with usaco is that it has 1/2 the number of problems, 2x the time, and no penalties. A couple minutes matters a lot in CF, but i doubt anybody would really care if USACO directors decided to chop 5 minutes off the end of a contest.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111287,
+      "rating": 4
+    }
+  },
+  {
+    "timeSeconds": 1706494177,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1661684417,
+      "rating": 149,
+      "authorHandle": "ScarletS",
+      "modificationTimeSeconds": 1687737983,
+      "id": 106407,
+      "title": "\u003cp\u003e[Tutorial] Amogus Trick\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111299,
+      "creationTimeSeconds": 1706494177,
+      "commentatorHandle": "NeroZein",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eHi. Sorry for necroposting, but your \u003ca href=\"https://codeforces.com/contest/1713/submission/167319457\"\u003ecode\u003c/a\u003e on \u003ca href=\"https://codeforces.com/contest/1713/problem/E\"\u003eCross Swapping\u003c/a\u003e fails if we change \u003ccode\u003edsu.unite(i, j + n);\u003c/code\u003e in line 46 to \u003ccode\u003edsu.unite(j + n, i);\u003c/code\u003e on the following testcase: \u003c/p\u003e \u003cpre\u003e\u003ccode\u003e1\n2\n1 2\n1 3\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 3
+    }
+  },
+  {
+    "timeSeconds": 1706489209,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1705037116,
+      "rating": 112,
+      "authorHandle": "vito1036",
+      "modificationTimeSeconds": 1705170359,
+      "id": 124610,
+      "title": "\u003cp\u003eCroatian Open Competition in Informatics (COCI) 2023/2024 — Round #3\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111297,
+      "creationTimeSeconds": 1706489209,
+      "commentatorHandle": "NeroZein",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eI saw this but it's a little bit hard to read as variables / functions names are confusing to me. \u003c/p\u003e\u003cp\u003eAnyways thanks for the response\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111183,
+      "rating": 5
+    }
+  },
+  {
+    "timeSeconds": 1706488042,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706461949,
+      "rating": 33,
+      "authorHandle": "Halym2007",
+      "modificationTimeSeconds": 1706462114,
+      "id": 125217,
+      "title": "\u003cp\u003eWhat is the difference between them?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111296,
+      "creationTimeSeconds": 1706488042,
+      "commentatorHandle": "Heap_OverFlow",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eUpon using iterator, it's constant time removal. However, I am not sure why such a useful blog is downvoted !\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111293,
+      "rating": 19
+    }
+  },
+  {
+    "timeSeconds": 1706485525,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706461949,
+      "rating": 33,
+      "authorHandle": "Halym2007",
+      "modificationTimeSeconds": 1706462114,
+      "id": 125217,
+      "title": "\u003cp\u003eWhat is the difference between them?\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111293,
+      "creationTimeSeconds": 1706485525,
+      "commentatorHandle": "blaze",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eAre you sure s.erase(tr) is O(1), shouldn't it also be O(log N) since std::set is implemented with red-black trees and deletion in a red-black tree is O(log N)?\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111258,
+      "rating": 18
+    }
+  },
+  {
+    "timeSeconds": 1706484621,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111290,
+      "creationTimeSeconds": 1706484621,
+      "commentatorHandle": "Hassan_Fathi",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eWe are just walking from 1 to sqrt(x)\u003c/p\u003e\u003cp\u003eWhen x divides i, that means there are 2 divisors of x, not just one -\u0026gt; i , x / i\u003c/p\u003e\u003cp\u003eThe first condition handles the first divisor and the second handles the second\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111266,
+      "rating": 5
+    }
+  },
+  {
+    "timeSeconds": 1706484472,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706304645,
+      "rating": 41,
+      "authorHandle": "JaySharma1048576",
+      "modificationTimeSeconds": 1706467437,
+      "id": 125137,
+      "title": "\u003cp\u003eCodeforces Round 921 (Div. 1, Div. 2) (Partial) Editorial\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111289,
+      "creationTimeSeconds": 1706484472,
+      "commentatorHandle": "Starswap",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cdiv class=\"spoiler\"\u003e\u003cb class=\"spoiler-title\"\u003eSpoiler\u003c/b\u003e\u003cdiv class=\"spoiler-content\" style=\"display: none;\"\u003e\u003cp\u003eIdea of my solution: (\u003ca href=\"/contest/1925/submission/243815910\" title=\"Submission 243815910 by Starswap\"\u003e243815910\u003c/a\u003e) \u003cimg alt=\" \" src=\"/predownloaded/ff/f4/fff4d94da353617b8dceb39e4d615995ffa8d53d.jpg\" style=\"max-width: 100.0%;max-height: 100.0%;\" /\u003e\u003c/p\u003e\u003cp\u003eWe can compute the initial answer by a sweep from 0 to N — 1 maintaining the current nearest left and nearest right harbour as iterators in the initial set. There might be easier ways but at least this doesn't need range update. Sorry that it's sideways. Maybe you can download and rotate it.\u003c/p\u003e\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e",
+      "parentCommentId": 1111166,
+      "rating": 0
+    }
+  },
+  {
+    "timeSeconds": 1706483603,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706408086,
+      "rating": 17,
+      "authorHandle": "remmymilkyway",
+      "modificationTimeSeconds": 1706415964,
+      "id": 125189,
+      "title": "\u003cp\u003eUSACO Not Responding\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111288,
+      "creationTimeSeconds": 1706483603,
+      "commentatorHandle": "-is-this-fft-",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eDDoS protection is one of Cloudflare's main features.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111281,
+      "rating": 16
+    }
+  },
+  {
+    "timeSeconds": 1706482773,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706408086,
+      "rating": 17,
+      "authorHandle": "remmymilkyway",
+      "modificationTimeSeconds": 1706415964,
+      "id": 125189,
+      "title": "\u003cp\u003eUSACO Not Responding\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111287,
+      "creationTimeSeconds": 1706482773,
+      "commentatorHandle": "TwentyOneHundredOrBust",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003e\u0026quot;ok i'm stuck on p2 let's check back on p1\u0026quot;\u003c/p\u003e\u003ch2\u003eusaco.org\u003c/h2\u003e\u003ch2\u003eChecking if the site connection is secure\u003c/h2\u003e\u003ch4\u003e□ Verify you are human\u003c/h4\u003e\u003ch2\u003eusaco.org needs to check the security of your connection before proceeding\u003c/h2\u003e\u003c/div\u003e",
+      "parentCommentId": 1111285,
+      "rating": 1
+    }
+  },
+  {
+    "timeSeconds": 1706482602,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706449175,
+      "rating": 31,
+      "authorHandle": "AyuAnchor",
+      "modificationTimeSeconds": 1706456273,
+      "id": 125207,
+      "title": "\u003cp\u003eNITS Hacks 6.0 Inter College Coding Competition (Prizes worth 50k INR)\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111286,
+      "creationTimeSeconds": 1706482602,
+      "commentatorHandle": "abhi_0324",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eExcited!\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 0,
+      "rating": 2
+    }
+  },
+  {
+    "timeSeconds": 1706482138,
+    "blogEntry": {
+      "originalLocale": "en",
+      "creationTimeSeconds": 1706408086,
+      "rating": 17,
+      "authorHandle": "remmymilkyway",
+      "modificationTimeSeconds": 1706415964,
+      "id": 125189,
+      "title": "\u003cp\u003eUSACO Not Responding\u003c/p\u003e",
+      "locale": "en",
+      "comment": null
+    },
+    "comment": {
+      "id": 1111285,
+      "creationTimeSeconds": 1706482138,
+      "commentatorHandle": "RubyHoshino",
+      "locale": "en",
+      "text": "\u003cdiv class=\"ttypography\"\u003e\u003cp\u003eI mean, cloudflare is trash for codeforces, but in a contest where you are (presumably) just thinking for most of the time with no penalties, I doubt the negatives would matter at all.\u003c/p\u003e\u003c/div\u003e",
+      "parentCommentId": 1111283,
+      "rating": 4
+    }
+  }
+]
