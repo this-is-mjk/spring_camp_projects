@@ -6,3 +6,6 @@ what i was not able to do:-
 # p2_codeforces_fetch
 here we are fetching the data 
 the data of 100 recent actions are in data file
+
+# CF 
+error to check
