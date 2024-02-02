@@ -2,7 +2,7 @@ package worker
 
 import (
 	store "CF-RSS/store"
-	model "CF-RSS/model"
+	// model "CF-RSS/model"
 	"context"
 	"go.mongodb.org/mongo-driver/mongo"
 	"log"
@@ -11,7 +11,7 @@ import (
 )
 func PerformWork(m *mongo.Client) {
 	maxCount := "100"
-	sleepTime := 15
+	sleepTime := 10
 	coll := m.Database("CF-RSS").Collection("recent-actions-final")
 	for {
 		// find max time stamp
@@ -20,16 +20,15 @@ func PerformWork(m *mongo.Client) {
 		if maxTimeStamp == 0 {
 			dataAsInterfaceArray := store.ConvertToInterfaceArray(store.Fetch(maxCount))
 			store.StoreRecentActionsInTheDatabase(m , dataAsInterfaceArray)
-			return
+			continue
 		}
 		// fetch new
 		dataAsInterfaceArray := store.Fetch(maxCount)
 		// check old entry or new entry
 		for index , action := range dataAsInterfaceArray {
-			k := []model.Action{}
 			if action.TimeSeconds > maxTimeStamp {
 				fmt.Println(index)
-				_ , err := coll.InsertOne(context.TODO(), store.ConvertToInterfaceArray(append(k,action)))
+				_ , err := coll.InsertOne(context.TODO(), action)
 				if err != nil {
 					fmt.Println(err)
 					log.Fatal("can't save new entry")
