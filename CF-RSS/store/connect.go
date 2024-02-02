@@ -93,7 +93,8 @@ func GetMaxTimeStamp(m *mongo.Client) int64 {
 	err := coll.FindOne(context.TODO(), bson.D{}, options).Decode(&time)
 	if err != nil {
 		if err == mongo.ErrNoDocuments {
-			log.Println("No documents found.")
+			log.Println("No documents found. creating new one")
+			return 0
 		} else {
 			log.Fatal(err)
 		}

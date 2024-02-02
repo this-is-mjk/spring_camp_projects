@@ -11,11 +11,17 @@ import (
 )
 func PerformWork(m *mongo.Client) {
 	maxCount := "100"
-	sleepTime := 300
+	sleepTime := 15
 	coll := m.Database("CF-RSS").Collection("recent-actions-final")
 	for {
 		// find max time stamp
 		maxTimeStamp := store.GetMaxTimeStamp(m)
+		// if data is lost somehow create new
+		if maxTimeStamp == 0 {
+			dataAsInterfaceArray := store.ConvertToInterfaceArray(store.Fetch(maxCount))
+			store.StoreRecentActionsInTheDatabase(m , dataAsInterfaceArray)
+			return
+		}
 		// fetch new
 		dataAsInterfaceArray := store.Fetch(maxCount)
 		// check old entry or new entry
@@ -25,7 +31,7 @@ func PerformWork(m *mongo.Client) {
 				fmt.Println(index)
 				_ , err := coll.InsertOne(context.TODO(), store.ConvertToInterfaceArray(append(k,action)))
 				if err != nil {
-					log.Println(err)
+					fmt.Println(err)
 					log.Fatal("can't save new entry")
 				}
 			}
