@@ -26,7 +26,6 @@ func getBlogs(c *gin.Context, reader *mongo.Collection) {
     }
 	//Finding multiple documents returns a cursor
     //Iterate through the cursor allows us to decode documents one at a time
-
     for cur.Next(context.TODO()) {
         //Create a value into which the single document can be decoded
         var elem model.Action
