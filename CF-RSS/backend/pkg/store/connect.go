@@ -11,7 +11,7 @@ import (
 	"io/ioutil"
 	"encoding/json"
 	"os"
-	model "CF-RSS/model"
+	model "CF-RSS/pkg/model"
 )
 var data struct {
 	Status string `json:"status"`
@@ -57,12 +57,12 @@ func Fetch(maxCount string) model.Actions {
 	client := &http.Client{}
     req, err1 := http.NewRequest("GET", url , nil)
     if err1 != nil {
-        log.Fatalln("error making http request: %s\n", err1)
+        log.Fatalln("error making http request:", err1)
     }
 
     resp, err2 := client.Do(req)
     if err2 != nil {
-		log.Fatalln("Error sending request to server: %s\n", err2)
+		log.Fatalln("Error sending request to server:", err2)
     }
     body, _ := ioutil.ReadAll(resp.Body)
 	defer resp.Body.Close()

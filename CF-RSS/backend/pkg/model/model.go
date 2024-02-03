@@ -31,3 +31,13 @@ type Action struct {
 	BlogEntry   *BE `json:"blogEntry"`
 	Comment     *C   `json:"comment"`
 }
+
+type UserLogIn struct {
+	Username string `json:"id1"`
+	Id2 string `json:"id2"`
+}
+
+type UserSignIn struct {
+	Id1 string `json:"id1"`
+	Id2 string `json:"id2"`
+}

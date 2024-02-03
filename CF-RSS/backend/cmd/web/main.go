@@ -1,9 +1,9 @@
 package main
 
 import (
-	store "CF-RSS/store"
-	worker "CF-RSS/worker"
-	server "CF-RSS/server"
+	store "CF-RSS/pkg/store"
+	worker "CF-RSS/pkg/worker"
+	server "CF-RSS/pkg/server"
 	"sync"
 	// "fmt"
 )

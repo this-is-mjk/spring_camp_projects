@@ -1,7 +1,7 @@
 package worker
 
 import (
-	store "CF-RSS/store"
+	store "CF-RSS/pkg/store"
 	// model "CF-RSS/model"
 	"context"
 	"go.mongodb.org/mongo-driver/mongo"

@@ -1,22 +1,29 @@
 import React from 'react';
+import {useEffect, useState} from 'react';
+const blogBox = document.getElementById("blogBox");
 
-
-
-const PostSection = ({ posts }) => {
-//   return (
-//     <div>
-//       <h2>Posts</h2>
-//       {posts.map((post) => (
-//         <div key={post.id} className="post">
-//           <h3>{post.title}</h3>
-//           <p>{post.body}</p>
-//         </div>
-//       ))}
-//     </div>
-//   );
+const PostSection = () => {
+    const [isLoading, setIsLoading] = useState(false);
+    
+    useEffect(() => {
+        const fetchPost = async () => {
+            fetch('https://reactnative.dev/movies.json').then(response => response.json())
+                .then(json => {
+                    return json;
+                }).catch(error => {
+                console.error(error);
+            });
+        }
+        console.log(fetchPost());
+    }, []);
+    if(isLoading) {
+        return (
+            <div>Loading</div>
+        );
+    }
     return  (
-        <a href="http://localhost:8080/">click here to see all data
-        </a>
+        <div id="#bolgBox">
+        </div>
     );
 };
 

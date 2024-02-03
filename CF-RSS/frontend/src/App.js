@@ -1,4 +1,3 @@
-import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import SignInSide from './componets/SignInSide';
 import SignUp from './componets/SignUp';

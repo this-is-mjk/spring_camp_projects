@@ -5,7 +5,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"log"
 	// store "CF-RSS/store"
-	model "CF-RSS/model"
+	model "CF-RSS/pkg/model"
 	"context"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -41,5 +41,5 @@ func getBlogs(c *gin.Context, reader *mongo.Collection) {
     //Close the cursor once finished
     cur.Close(context.TODO())
 	// showing on chrome
-    c.IndentedJSON(http.StatusOK, results)
+    c.JSON(http.StatusOK, results)
 }
