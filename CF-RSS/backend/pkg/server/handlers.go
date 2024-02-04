@@ -41,5 +41,5 @@ func getBlogs(c *gin.Context, reader *mongo.Collection) {
     //Close the cursor once finished
     cur.Close(context.TODO())
 	// showing on chrome
-    c.JSON(http.StatusOK, results)
+    c.IndentedJSON(http.StatusOK, results)
 }
