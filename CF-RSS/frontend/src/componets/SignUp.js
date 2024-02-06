@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React, { Fragment, useState, useContext } from 'react'
 import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
 import CssBaseline from '@mui/material/CssBaseline';
@@ -9,24 +9,41 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { Link } from 'react-router-dom';
-import { createTheme, ThemeProvider } from '@mui/material/styles';
-
-// TODO remove, this demo shouldn't need to reset the theme.
-
-const defaultTheme = createTheme();
+// import { createTheme, ThemeProvider } from '@mui/material/styles';
+import { useNavigate } from 'react-router-dom';
+import {useGlobalVar} from './logindetails'
 
 export default function SignUp() {
+  const { emailid, password, isLoggedIn, updateEmail, updatePassword, updateIsLoggedIn } = useGlobalVar();
+
+  const controller = new AbortController();
+  const navigate = useNavigate();
   const handleSubmit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    console.log({
-      email: data.get('email'),
-      password: data.get('password'),
+    controller.abort();
+    fetch('http://localhost:8080/user/signup', {
+      method: 'POST',
+      body: JSON.stringify({
+        username: data.get('username'),
+        email: data.get('email'),
+        password: data.get('password'),
+        subscriptions: [],
+      }),
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    }).catch((error) => {
+      console.log(error)
+      alert("Error occured, please try again.");
     });
+    updateEmail(data.get('email'))
+    updatePassword(data.get('password'))
+    updateIsLoggedIn(true)
+    navigate(`/`);
   };
-
   return (
-    // <ThemeProvider theme={defaultTheme}>
+// <ThemeProvider theme={defaultTheme}>
       <Container component="main" maxWidth="xs">
         <CssBaseline />
         <Box
@@ -45,25 +62,14 @@ export default function SignUp() {
           </Typography>
           <Box component="form" noValidate onSubmit={handleSubmit} sx={{ mt: 3 }}>
             <Grid container spacing={2}>
-              <Grid item xs={12} sm={6}>
+              <Grid item xs={12}>
                 <TextField
-                  autoComplete="given-name"
-                  name="firstName"
+                  name="username"
                   required
                   fullWidth
-                  id="firstName"
-                  label="First Name"
+                  id="username"
+                  label="User Name"
                   autoFocus
-                />
-              </Grid>
-              <Grid item xs={12} sm={6}>
-                <TextField
-                  required
-                  fullWidth
-                  id="lastName"
-                  label="Last Name"
-                  name="lastName"
-                  autoComplete="family-name"
                 />
               </Grid>
               <Grid item xs={12}>

@@ -16,7 +16,7 @@ const BlogPost = ({ title, userName, postingTime}) => {
     <div className="blog-post">
       <h2>{title}</h2>
       <p>By {userName} on {postingTime}</p>
-      <div class="button-div">
+      <div className="button-div">
         <button onClick={handleCommentsClick}>View Comments</button>
         <button onClick={handleSubscribeClick}>Subscribe</button>
       </div>

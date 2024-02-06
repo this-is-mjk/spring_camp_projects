@@ -32,12 +32,13 @@ type Action struct {
 	Comment     *C   `json:"comment"`
 }
 
-type UserLogIn struct {
-	Username string `json:"id1"`
-	Id2 string `json:"id2"`
+type UserSignUp struct {
+	Username string `json:"username" binding:"required"`
+	Email string `json:"email" binding:"required"`
+	Password string `json:"password" binding:"required"`
+	Subscriptions []string `json:"subscriptions"`
 }
-
-type UserSignIn struct {
-	Id1 string `json:"id1"`
-	Id2 string `json:"id2"`
+type SignInData struct {
+	Email string `json:"email" binding:"required"`
+	Password string `json:"password" binding:"required"`
 }

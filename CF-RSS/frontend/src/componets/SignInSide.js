@@ -10,17 +10,37 @@ import LockOutlinedIcon from '@mui/icons-material/LockOutlined';
 import Typography from '@mui/material/Typography';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Link } from 'react-router-dom';
-
+import {useGlobalVar} from './logindetails'
 const defaultTheme = createTheme();
 
 export default function SignInSide() {
+  const controller = new AbortController();
+  const { emailid, password, isLoggedIn, updateEmail, updatePassword, updateIsLoggedIn } = useGlobalVar();
   const handleSubmit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
-    console.log({
-      email: data.get('email'),
-      password: data.get('password'),
+    // console.log({
+    //   email: data.get('email'),
+    //   password: data.get('password'),
+    // });
+    controller.abort();
+    fetch('http://localhost:8080/user/login', {
+      method: 'POST',
+      body: JSON.stringify({
+        email: data.get('email'),
+        password: data.get('password'),
+      }),
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    }).catch((error) => {
+      console.log(error)
+      alert("Error occured, please try again.");
     });
+    updateEmail(data.get('email'))
+    updatePassword(data.get('password'))
+    updateIsLoggedIn(true)
+
   };
 
   return (
@@ -78,6 +98,10 @@ export default function SignInSide() {
                 id="password"
                 autoComplete="current-password"
               />
+              {/* <FormControlLabel
+                control={<Checkbox value="remember" color="primary" />}
+                label="Remember me"
+              /> */}
               <Button
                 type="submit"
                 fullWidth

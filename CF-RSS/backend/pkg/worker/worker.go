@@ -11,7 +11,7 @@ import (
 )
 func PerformWork(m *mongo.Client) {
 	maxCount := "100"
-	sleepTime := 10
+	sleepTime := 100
 	coll := m.Database("CF-RSS").Collection("recent-actions-final")
 	for {
 		// find max time stamp

@@ -27,14 +27,14 @@ const PostSection = () => {
         }
         fetchPost();
         
-    }, []);
+    }, [process.env.REACT_APP_LoggedIn]);
     return (
         <div id="blogPage">
             <NavBar />
             <h1>Community</h1>
-            {blog && blog.map((ele) => 
-                <BlogPost
-                key={ele.blogEntry.id}
+            {blog && blog.map((ele, index) => 
+                <BlogPost 
+                key={index}
                 title={ele.blogEntry.title.slice(3,-4)}
                 userName={ele.blogEntry.authorHandle}
                 postingTime={ele.timeSeconds}

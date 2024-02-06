@@ -9,6 +9,7 @@ import (
 func CreateRoutes() {
 	client := store.OpenConnectionWithMongoDB()
 	reader := client.Database("CF-RSS").Collection("recent-actions-final")
+	userData := client.Database("CF-RSS").Collection("user")
 	router := gin.Default()
 	router.Use(cors.Default())
 
@@ -16,11 +17,11 @@ func CreateRoutes() {
 		getBlogs(c, reader)
 	})
 	router.POST("/user/login", func(c *gin.Context) {
-		
+		loginUser(c, userData)
 	})
 
 	router.POST("/user/signup", func(c *gin.Context) {
-		getBlogs(c, reader)
+		registerUser(c, userData)
 	})
 
 	// router.Use(authenticateReq)

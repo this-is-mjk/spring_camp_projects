@@ -8,14 +8,14 @@ import (
 	// "fmt"
 )
 func DataCollection() {
-	maxCount := "100"
-	// first time fetch
-	dataAsInterfaceArray := store.ConvertToInterfaceArray(store.Fetch(maxCount))
-	// create connection
+	// maxCount := "100"
+	// // first time fetch
+	// dataAsInterfaceArray := store.ConvertToInterfaceArray(store.Fetch(maxCount))
+	// // create connection
 	mongoClient := store.OpenConnectionWithMongoDB()
-	// fmt.Println(mongoClient)
-	// store data for first time
-	store.StoreRecentActionsInTheDatabase( mongoClient , dataAsInterfaceArray)
+	// // fmt.Println(mongoClient)
+	// // store data for first time
+	// store.StoreRecentActionsInTheDatabase( mongoClient , dataAsInterfaceArray)
 	// starting worker to take recent actions in every 5 min
 	worker.PerformWork(mongoClient)
 }
