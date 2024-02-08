@@ -36,9 +36,14 @@ type UserSignUp struct {
 	Username string `json:"username" binding:"required"`
 	Email string `json:"email" binding:"required"`
 	Password string `json:"password" binding:"required"`
-	Subscriptions []string `json:"subscriptions"`
+	Subscriptions []int `json:"subscriptions"`
 }
 type SignInData struct {
 	Email string `json:"email" binding:"required"`
 	Password string `json:"password" binding:"required"`
+}
+type SubscribeRequest struct {
+	Email string `json:"email" binding:"required"`
+	Password string `json:"password" binding:"required"`
+	BlogId int `json:"blogid" binding:"required"`
 }

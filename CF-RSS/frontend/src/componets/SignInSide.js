@@ -11,11 +11,14 @@ import Typography from '@mui/material/Typography';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { Link } from 'react-router-dom';
 import {useGlobalVar} from './logindetails'
+import { useNavigate } from 'react-router-dom';
 const defaultTheme = createTheme();
 
+
 export default function SignInSide() {
+  const navigate = useNavigate();
   const controller = new AbortController();
-  const { emailid, password, isLoggedIn, updateEmail, updatePassword, updateIsLoggedIn } = useGlobalVar();
+  const {updateEmail, updatePassword, updateIsLoggedIn} = useGlobalVar();
   const handleSubmit = (event) => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
@@ -33,14 +36,25 @@ export default function SignInSide() {
       headers: {
         'Content-Type': 'application/json'
       }
-    }).catch((error) => {
+    }).then((res) => {
+        if (res.status === 404) {
+            alert("user not found! Sign up now!")
+            return
+        }else if (res.status === 250) {
+            alert("wrong password, try again!")
+            return
+        }else if (res.status === 200){
+          const subscriptionsArray = res.json().subscriptions; // Access subscriptions array from the response
+          updateEmail(data.get('email'))
+          updatePassword(data.get('password'))
+          updateIsLoggedIn(true)
+          navigate(`/`);
+        }
+    })
+    .catch((error) => {
       console.log(error)
       alert("Error occured, please try again.");
     });
-    updateEmail(data.get('email'))
-    updatePassword(data.get('password'))
-    updateIsLoggedIn(true)
-
   };
 
   return (

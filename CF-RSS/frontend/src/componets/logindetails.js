@@ -8,6 +8,7 @@ const LoginVarProvider = (props) => {
     const [password, setPassword] = useState("");
     const [isLoggedIn, setLogin] = useState(false);
 
+
     const updateEmail = (newEmail) => {
     setEmail(newEmail);
     };
@@ -19,7 +20,6 @@ const LoginVarProvider = (props) => {
     const updateIsLoggedIn = (newIsLoggedIn) => {
     setLogin(newIsLoggedIn);
     };
-
     return (
         <Logindetail.Provider value={{
             emailid,
@@ -28,6 +28,7 @@ const LoginVarProvider = (props) => {
             updateEmail,
             updatePassword,
             updateIsLoggedIn,
+
         }}>
             {props.children}
         </Logindetail.Provider>

@@ -12,7 +12,6 @@ import { Link } from 'react-router-dom';
 // import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { useNavigate } from 'react-router-dom';
 import {useGlobalVar} from './logindetails'
-
 export default function SignUp() {
   const { emailid, password, isLoggedIn, updateEmail, updatePassword, updateIsLoggedIn } = useGlobalVar();
 

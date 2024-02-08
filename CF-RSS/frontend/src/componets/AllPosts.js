@@ -3,13 +3,16 @@ import {useEffect, useState} from 'react';
 import NavBar from './NavBar';
 import BlogPost from './BlogPost'
 import './BlogPost.css';
-const addToBlogBox = (responseData) => {
-}
+// import {useGlobalVar} from './logindetails'
+
 const PostSection = () => {
+    // const { emailid, password, isLoggedIn, updateEmail, updatePassword, updateIsLoggedIn } = useGlobalVar();
+    const controller = new AbortController();
     const [blog, setBlog] = useState();
     const [isLoading, setIsLoading] = useState(false);
     const [isError, setIsError] = useState(false);
     useEffect(() => {
+        controller.abort();
         const fetchPost = () => {
             setIsLoading(true);
             fetch('http://localhost:8080/activity/recent-actions').then((response) => {
@@ -22,8 +25,9 @@ const PostSection = () => {
                 setBlog(j);
             }).catch((error) => {
                 setIsError(true)
-            })
-            setIsLoading(false);
+            }).finally(() => {
+                setIsLoading(false); // Move this inside the finally block
+            });
         }
         fetchPost();
         
@@ -38,7 +42,9 @@ const PostSection = () => {
                 title={ele.blogEntry.title.slice(3,-4)}
                 userName={ele.blogEntry.authorHandle}
                 postingTime={ele.timeSeconds}
+                id={ele.blogEntry.id}
               />
+
             )}
         </div>
       );

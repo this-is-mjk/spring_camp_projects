@@ -15,6 +15,9 @@ const Navbar = () => {
     const signup = () => {
       navigate(`/signup`);
     };
+    const subscribed = () => {
+      navigate(`/subscribed`);
+    }
 
     const onRefresh = () => {
       window.location.reload();
@@ -41,6 +44,9 @@ const Navbar = () => {
         )}
         {isLoggedIn && (
           <div className="right">
+            <button className="navbar-button" onClick={subscribed}>
+              Subscribed
+            </button>
             <button className="navbar-button" onClick={logout}>
               Logout
             </button>

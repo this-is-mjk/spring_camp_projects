@@ -16,26 +16,22 @@ func CreateRoutes() {
 	router.GET("/activity/recent-actions", func(c *gin.Context) {
 		getBlogs(c, reader)
 	})
-	router.POST("/user/login", func(c *gin.Context) {
-		loginUser(c, userData)
-	})
-
 	router.POST("/user/signup", func(c *gin.Context) {
 		registerUser(c, userData)
 	})
-
-	// router.Use(authenticateReq)
-
-	router.GET("/user/activity/recent-actions", func(c *gin.Context) {
-		getBlogs(c, reader)
+	router.POST("/user/login", func(c *gin.Context) {
+		loginUser(c, userData)
+	})
+	router.POST("/user/activity/recent-actions", func(c *gin.Context) {
+		userRecentAction(c, userData, reader)
 	})
 
 	router.POST("/user/blogs/subscribe", func(c *gin.Context) {
-		getBlogs(c, reader)
+		Subscribe(c, userData)
 	})
 
 	router.POST("/user/blogs/unsubscribe", func(c *gin.Context) {
-		getBlogs(c, reader)
+		Unsubscribe(c, userData)
 	})
 	
     router.Run("localhost:8080")

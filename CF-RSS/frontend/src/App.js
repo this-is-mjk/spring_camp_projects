@@ -3,6 +3,7 @@ import SignInSide from './componets/SignInSide';
 import LoginVarProvider from './componets/logindetails';
 import SignUp from './componets/SignUp';
 import AllPosts from './componets/AllPosts';
+import Subscribed from './componets/Subscribed';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
           <Route path='/' element={<AllPosts />}/>
           <Route path="/signin" element={<SignInSide />} />
           <Route path="/signup" element={<SignUp />} />
+          <Route path="/subscribed" element={<Subscribed/>} />
         </Routes>
       </Router>
      </LoginVarProvider>
@@ -19,5 +21,3 @@ function App() {
 }
 
 export default App;
-
-// useEffect(() => {  }, [process.env.REACT_APP_LoggedIn]);
