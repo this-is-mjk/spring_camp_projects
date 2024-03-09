@@ -1,0 +1,79 @@
+.bg-image {
+    background-image: url('/Users/this_is_mjk/projects/go/spring_camp_projects/CF-RSS/frontend-v2/public/allposts.jpeg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -2;
+    min-width: 600px;
+    min-height: 700px;
+  }
+  .login-container {
+    width: 500px;
+    margin: auto;
+    margin-top: 25vh;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.7);
+    border: 1px solid rgba(32, 173, 86, 0.4);
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: white;
+    
+  }
+  
+  input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-weight: bold;
+    margin-bottom: 8px;
+    background-color: rgba(0, 0, 0, 0.2);
+    background-color: white;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 50%;
+    box-shadow: 0 0 20px rgba(76,175,80, 0.2) ;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 8px;
+  }
+  
+ 
+  @media (max-width: 600px) {
+    .login-container {
+      min-width: 400px;
+      padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.4);
+    }
+  }
+  

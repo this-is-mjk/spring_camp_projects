@@ -1,0 +1,62 @@
+.bgImageProfilePage{
+    background-image: url('/Users/this_is_mjk/projects/go/spring_camp_projects/CF-RSS/frontend-v2/public/profilePage.jpeg');
+    background-size:cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+}
+.left-size-contact-card{
+    height: fit-content;
+    background-color: rgba(255,255,255,0.8);
+    width: fit-content;
+    max-width: 600px;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    box-shadow: 8px 8px rgba(0,0,0,0.7);
+    height: fit-content;
+    padding: 2%;
+
+}
+.user-image{
+    min-width: 100px;
+    max-width: 200px;
+    min-height: 100px;
+    max-height: 200px;
+    color: rgba(0,0,0,0.7);
+}
+.user-details{
+    margin: auto 10px;
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+.right-size-subscriptions {
+    margin: 50px auto;
+    width: 60%;
+    overflow: scroll;
+}
+.profile-subscribe-heading {
+    margin: -40px auto;
+    position: fixed;
+}
+.posts-sub{
+    display: flex;
+    flex-direction: column-reverse;
+}
+@media (max-width: 900px) {
+    .bgImageProfilePage {
+      flex-direction: column;
+    }
+    .right-size-subscriptions{
+        margin: 0 auto;
+        min-width: 400px;
+    }
+    h1 {
+        margin-top: -30px;
+    }
+}

@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+.commetsection{
+    color: white;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+}
+.comment-top-layer{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.comment{
+    max-width: 900px;
+    min-width: 300px;
+    border: 1px solid white;
+    margin: 2% auto;
+    padding: 2%;
+    box-shadow: -4px 4px rgba(0,0,0,0.2);
+    background-color: white;
+    border-radius: 10px;
+}
+.time-author{
+    display: flex;
+    justify-content:space-around;
+    flex-direction: column;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+.time-author > p {
+    padding: 1px;
+    margin: 1px;
+    width: fit-content;
+}
+.post-details {
+    width: 80%;
+    max-width: 900px;
+    min-width: 300px;
+    margin: 2% auto;
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 4px 4px rgba(0,0,0,0.2);
+    background-color: white;
+    display: flex;
+    
+    
+}
+.bgimageCommentSection {
+    background-image: url('/Users/this_is_mjk/projects/go/spring_camp_projects/CF-RSS/frontend-v2/public/commentsectionbg.jpeg');
+    background-size:cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top:0;
+    z-index: -1;
+    /* others */
+    color: white;
+}

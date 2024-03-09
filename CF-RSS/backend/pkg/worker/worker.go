@@ -10,7 +10,7 @@ import (
 	"time"
 )
 func PerformWork(m *mongo.Client) {
-	maxCount := "100"
+	maxCount := "5"
 	sleepTime := 100
 	coll := m.Database("CF-RSS").Collection("recent-actions-final")
 	for {

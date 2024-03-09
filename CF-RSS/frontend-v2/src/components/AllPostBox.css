@@ -1,0 +1,61 @@
+.all-post-box{
+  color: black;
+  align-items: center;
+  
+}
+.heading{
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 5vh;
+  width: fit-content;
+}
+.bg-image-all-post {
+    /* background image */
+    background-image: url('/Users/this_is_mjk/projects/go/spring_camp_projects/CF-RSS/frontend-v2/public/login2.jpeg');
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    min-width: 500px;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    /* others */
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .top-layer {
+    padding: 2%;
+    width: 80%;
+    margin: 5vh auto;
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .one-post {
+    padding: 10px;
+    background-color: rgba(255,255, 255,0.5); 
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    width: 90%;
+    max-width: 900px;
+    min-width: 400px;
+    margin: 25px auto 0;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+  }
+  .bottom-section {
+    /* bottom of each post */
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    /* flex-direction: row; */
+  }
+  .commentBtn {
+    /* display: inline; */
+    padding: 10px;
+    width: fit-content;
+    font-size: medium;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    margin: 0 10px;
+  }

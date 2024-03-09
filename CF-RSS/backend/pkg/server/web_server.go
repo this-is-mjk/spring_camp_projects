@@ -11,29 +11,27 @@ func CreateRoutes() {
 	reader := client.Database("CF-RSS").Collection("recent-actions-final")
 	userData := client.Database("CF-RSS").Collection("user")
 	router := gin.Default()
-	router.Use(cors.Default())
+	config := cors.DefaultConfig()
+	config.AllowOrigins = []string{"http://localhost:3000"}
+	// config.AllowAllOrigins = true
+	config.AllowCredentials = true
+	config.AllowHeaders = []string{"content-type"}
+	router.Use(cors.New(config))
 
-	router.GET("/activity/recent-actions", func(c *gin.Context) {
-		getBlogs(c, reader)
+	router.POST("/signup", func(c *gin.Context) {
+		Signup(c, userData)
 	})
-	router.POST("/user/signup", func(c *gin.Context) {
-		registerUser(c, userData)
-	})
-	router.POST("/user/login", func(c *gin.Context) {
+	router.POST("/login", func(c *gin.Context) {
 		loginUser(c, userData)
 	})
-	router.POST("/user/activity/recent-actions", func(c *gin.Context) {
-		userRecentAction(c, userData, reader)
+	// middleware
+	router.Use(authenticateReq)
+	// secure
+	router.GET("/all-recent-actions", func(c *gin.Context) {
+		getBlogs(c, reader, userData)
 	})
-
-	router.POST("/user/blogs/subscribe", func(c *gin.Context) {
-		Subscribe(c, userData)
+	router.POST("/subscribe-request", func(c *gin.Context) {
+		SubscribeRequest(c, userData)
 	})
-
-	router.POST("/user/blogs/unsubscribe", func(c *gin.Context) {
-		Unsubscribe(c, userData)
-	})
-	
     router.Run("localhost:8080")
-
 }

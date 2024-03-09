@@ -15,7 +15,6 @@ type BE struct {
 	Tags                    []string `json:"tags"`
 	Rating                  int      `json:"rating"`
 }
-
 type C struct {
 	Text                string `json:"text"`
 	Rating              int    `json:"rating"`
@@ -25,25 +24,22 @@ type C struct {
 	Locale              string `json:"locale"`
 	ParentCommentId     int    `json:"parentCommentId"`
 }
-
 type Action struct {
 	TimeSeconds int64   `json:"timeSeconds"`
 	BlogEntry   *BE `json:"blogEntry"`
 	Comment     *C   `json:"comment"`
 }
-
-type UserSignUp struct {
-	Username string `json:"username" binding:"required"`
-	Email string `json:"email" binding:"required"`
-	Password string `json:"password" binding:"required"`
-	Subscriptions []int `json:"subscriptions"`
+type User struct {
+	Username      string            `json:"username" validate:"required, min=2, max=100"`
+	Password      string            `json:"password" validate:"required, min=6"`
+	Email         string            `json:"email" validate:"required, email"`
+	Subscriptions []int				`json:"subscriptions"`
 }
-type SignInData struct {
-	Email string `json:"email" binding:"required"`
-	Password string `json:"password" binding:"required"`
+type UserLogin struct {
+	Username      string            `json:"userName" validate:"required, min=2, max=100"`
+	Password      string            `json:"password" validate:"required, min=6"` 
 }
 type SubscribeRequest struct {
-	Email string `json:"email" binding:"required"`
-	Password string `json:"password" binding:"required"`
-	BlogId int `json:"blogid" binding:"required"`
+	Id 				int 			`json:"postid"`
+	Action			bool 			`json:"subscribe"`
 }
